@@ -16,7 +16,7 @@
   },
   "scripts": {
     "build": "babel src -d lib",
-    "lint": "eslint sample/lint/index.js"
+    "lint": "eslint samples/lint/index.js"
   },
   "author": "",
   "license": "ISC"
