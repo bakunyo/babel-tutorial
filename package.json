@@ -15,7 +15,8 @@
     "eslint": "^2.10.2"
   },
   "scripts": {
-    "build": "babel src -d lib"
+    "build": "babel src -d lib",
+    "lint": "eslint sample/lint/index.js"
   },
   "author": "",
   "license": "ISC"
